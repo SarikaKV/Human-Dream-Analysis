@@ -19,10 +19,14 @@ The notebook is organised in the following order:
 * Data Preparation using Web Scraping
 
 Below are some of the visualizations:
+
 N-Grams Exploratory Analysis:
+
 ![](images/newplot.png)
 
+
 Noun Analysis of Dreams:
+
 ![](images/nouns_wc.png)
 
 Named Enties Distribution in the Dreams:
