@@ -26,16 +26,24 @@ Noun Analysis of Dreams:
 ![](images/nouns_wc.png)
 
 Named Enties Distribution in the Dreams:
+
 ![](images/ner_cardinals.png)
 
-Named Entity GPE Word Cloud
+
+Named Entity GPE Word Cloud:
+
 ![](images/ner_gpe.png)
 
+
 Sentiment Distribution in the dreams:
+
 ![](images/senti.png)
 
+
 Sentiment Score Distribution:
+
 ![](images/senti_dist.png)
+
 
 Topic Models (LDA):
 ![](images/bokeh_plot.png)
